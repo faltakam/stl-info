@@ -1,0 +1,25 @@
+{
+  "name": "stl-info",
+  "version": "1.0.0",
+  "description": "calculates volume and size of stl models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faltakam/stl-info.git"
+  },
+  "keywords": [
+    "stl"
+  ],
+  "author": "faltakam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faltakam/stl-info/issues"
+  },
+  "homepage": "https://github.com/faltakam/stl-info#readme",
+  "dependencies": {
+    "three": "^0.115.0"
+  }
+}
