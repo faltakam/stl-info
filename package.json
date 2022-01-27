@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/faltakam/stl-info#readme",
   "dependencies": {
-    "three": "^0.125.0"
+    "three": "^0.137.0"
   }
 }
